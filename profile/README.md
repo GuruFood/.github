@@ -70,16 +70,19 @@ Data Layer
 ## 🚀 Stack Tecnológica
 
 ### Backend
-- Java / Spring Boot
+- NestJS
+- PHP 8
 - JWT Authentication
 - PostgreSQL
 - Redis
+- RabbitMQ
 - Flyway
 
 ### Frontend
 - Next.js
 - React
 - TailwindCSS
+- Shadcn
 
 ### Mobile
 - Kotlin Android
